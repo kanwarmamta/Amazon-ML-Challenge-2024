@@ -1,5 +1,5 @@
-#Team - Ctrl+Alt+MAAL
-#Global Rank- 130 out of 75000+ participants : https://unstop.com/hackathons/amazon-ml-challenge-amazon-1100713/coding-challenge/200089?d=eyJwYWdlIjoxLCJ0ZWFtSWQiOjIzMDQ5MTM1LCJhc3NvY2lhdGlvbklkIjo4NDEzMzl9
+# Team - Ctrl+Alt+MAAL
+# Global Rank- 130 out of 75000+ participants : https://unstop.com/hackathons/amazon-ml-challenge-amazon-1100713/coding-challenge/200089?d=eyJwYWdlIjoxLCJ0ZWFtSWQiOjIzMDQ5MTM1LCJhc3NvY2lhdGlvbklkIjo4NDEzMzl9
 # ML Challenge Problem Statement
 
 ## Feature Extraction from Images
